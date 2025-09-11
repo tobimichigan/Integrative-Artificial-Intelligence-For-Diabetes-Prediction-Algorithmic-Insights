@@ -7,7 +7,7 @@ Accurate prediction of Type 1 Diabetes (T1D) events from heterogeneous, real-wor
 
 <p>Keywords: Type 1 Diabetes, Predictive Modeling, Logistic Regression, Random Forest, Neural Network, Cross-Validation, Explainable AI</p>
 
-<p>Full Paper Article : https://handsonlabs.org/integrative-artificial-intelligence-for-diabetes-prediction-cross-validated-insights-from-ensemble-and-neural-architectures/?v=c6a82504ceeb</p>
+<p>Full Initial Paper Article : https://handsonlabs.org/integrative-artificial-intelligence-for-diabetes-prediction-cross-validated-insights-from-ensemble-and-neural-architectures/?v=c6a82504ceeb</p>
 
 <h2 align="left"> 
 Showing Fig. 1. Model Accuracy, Model Loss, Model Precision, Model Recall
@@ -73,7 +73,7 @@ To ensure our findings are communicated clearly, we propose a structured outline
 
 <h1>Sources</h1>
 
-We directly used the T1D-UOM[1] and AZT1D[2] datasets in our pipeline. These references also highlight the data gaps we are filling: limited publicly available T1D data for algorithm development and how these new datasets address that gap.
+We directly used the T1D-UOM[10] and AZT1D[14] (see full list of references in full article link above) in  datasets in our pipeline. These references also highlight the data gaps we are filling: limited publicly available T1D data for algorithm development and how these new datasets address that gap.
 
 <h1>Data Sources</h1>
 

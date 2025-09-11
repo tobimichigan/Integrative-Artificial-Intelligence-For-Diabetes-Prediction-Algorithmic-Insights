@@ -83,8 +83,8 @@ We directly used the T1D-UOM[10] and AZT1D[14] (see full list of references in f
 
     AZT1D: A Real-World Dataset for Type 1 Diabetes: Khamesian, Saman; Arefeen, Asiful; Thompson, Bithika M.; Grando, Adela; Ghasemzadeh, Hassan (2025), “AZT1D: A Real-World Dataset for Type 1 Diabetes”, Mendeley Data, V1, doi: 10.17632/gk9m674wcx.1 [/kaggle/working/AZT1D A Real-World Dataset for Type 1 Diabetes] (/kaggle/working/sharpic-ManchesterCSCoordinatedDiabetesStudy-fdbd74f). Github: https://github.com/sharpic/ManchesterCSCoordinatedDiabetesStudy/tree/V1.0.3
     
-[10] T1D-UOM – A Longitudinal Multimodal Dataset of Type 1 Diabetes
-https://zenodo.org/records/15806142
-[14] [2506.14789] AZT1D: A Real-World Dataset for Type 1 Diabetes
-https://arxiv.org/abs/2506.14789
+<p>[10] T1D-UOM – A Longitudinal Multimodal Dataset of Type 1 Diabetes
+https://zenodo.org/records/15806142 </p>
+<p>[14] [2506.14789] AZT1D: A Real-World Dataset for Type 1 Diabetes
+https://arxiv.org/abs/2506.14789 </p>
 </p>

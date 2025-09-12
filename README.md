@@ -12,7 +12,7 @@ Accurate prediction of Type 1 Diabetes (T1D) events from heterogeneous, real-wor
 <h2 align="left"> 
 Showing Fig. 1. Model Accuracy, Model Loss, Model Precision, Model Recall
   <br>
- <a href="https://handsonlabs.org/integrative-artificial-intelligence-for-diabetes-prediction-cross-validated-insights-from-ensemble-and-neural-architectures/?v=c6a82504ceeb"><img src="https://github.com/tobimichigan/Probe-Design-Case-Study-Of-Gpt-Oss-20b-Vulnerabilities/blob/main/Fig.%201.ResponsePatternAnalysis.png](https://raw.githubusercontent.com/tobimichigan/Integrative-Artificial-Intelligence-For-Diabetes-Prediction-Algorithmic-Insights/refs/heads/main/Fig.%201.%20Model%20Accuracy%2C%20Model%20Loss%2C%20Model%20Precision%2C%20Model%20Recall.png" alt="Fig. 1. Model Accuracy, Model Loss, Model Precision, Model Recall" width="1020"></a> 
+ <a href="https://handsonlabs.org/integrative-artificial-intelligence-for-diabetes-prediction-cross-validated-insights-from-ensemble-and-neural-architectures/?v=c6a82504ceeb"><img src="https://raw.githubusercontent.com/tobimichigan/Integrative-Artificial-Intelligence-For-Diabetes-Prediction-Algorithmic-Insights/refs/heads/main/Fig.%201.%20Model%20Accuracy%2C%20Model%20Loss%2C%20Model%20Precision%2C%20Model%20Recall.png" alt="Fig. 1. Model Accuracy, Model Loss, Model Precision, Model Recall" width="1020"></a> 
   <br> 
    <br>
 </h2>
